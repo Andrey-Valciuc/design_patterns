@@ -10,5 +10,5 @@ Architectural design patterns are the ways in which we tie our code together. If
 dozen different modules, it is how those modules talk to each other that defines our
 architecture:
 
-- [MVC]()
-- [MVVM]()
+- [MVC](https://github.com/Andrey-Valciuc/design_patterns/tree/main/design_patterns/ArchitecturalDesignPatetrns/MVC)
+- [MVVM](https://github.com/Andrey-Valciuc/design_patterns/tree/main/design_patterns/ArchitecturalDesignPatetrns/MVVM)
