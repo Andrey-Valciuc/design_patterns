@@ -38,4 +38,4 @@ The Class pattern is useful when you have a self-contained concept that fulfills
 - The concept requires construction
 - The concept will vary between instances of itself
 
-Here are some [details]()
+Here are some [details](https://github.com/Andrey-Valciuc/design_patterns/tree/main/design_patterns/ModularDesignPatterns/ClassPattern/ClassPatternParticularities)
